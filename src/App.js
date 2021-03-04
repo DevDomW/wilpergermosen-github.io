@@ -1,4 +1,3 @@
-//import logo from './logo.svg';
 import logo from './WilperG.jpeg';
 
 function App() {
@@ -11,11 +10,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/DevDomW"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check me OUT BOI (Click HERE)!
         </a>
       </header>
     </div>
